@@ -1,1 +1,1 @@
-# dysflare-api-docs
+# Dysflare-API-Docs
